@@ -15,6 +15,7 @@ clear
 sleep 5
 git clone https://github.com/Gameye98/vbug
 cd vbug
+chmod +x *
 clear
 sleep 3
 python vbug.py
